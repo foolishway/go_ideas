@@ -13,7 +13,7 @@ usage
 ## errer_handler.go
 
 该例子来自于Rob Pike的一篇博客“Errors are values”，地址：
-[]("https://blog.golang.org/errors-are-values")
+<https://blog.golang.org/errors-are-values/>
 
 ## file_server.go
 
